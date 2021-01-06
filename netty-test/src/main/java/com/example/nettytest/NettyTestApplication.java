@@ -16,6 +16,9 @@ public class NettyTestApplication implements CommandLineRunner {
     public static void main(String[] args) {
         SpringApplication.run(NettyTestApplication.class, args);
     }
+    
+    
+    
 
     @Override
     public void run(String... args) throws Exception {
