@@ -1,4 +1,4 @@
-package com.example.nettytest;
+package com.example.nettytest.test;
 
 import java.io.IOException;
 import java.io.OutputStream;
