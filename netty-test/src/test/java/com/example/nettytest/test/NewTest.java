@@ -26,6 +26,7 @@ public class NewTest {
             socket.close();
         } catch (IOException e) {
             e.printStackTrace();
+
         }
     }
 
